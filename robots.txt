@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chathamductcleaningpros.ca/sitemap-index.xml
